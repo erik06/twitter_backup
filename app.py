@@ -62,4 +62,5 @@ def get_all_tweets(screen_name):
 
 if __name__ == "__main__":
     # pass in the username of the account you want to download
-    get_all_tweets("erikslagter")
+    username = os.getenv("TW_USERNAME")
+    get_all_tweets(username)
