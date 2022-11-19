@@ -31,6 +31,7 @@ Where `TW_USERNAME` is the twitter username (**without** the @ symbol in front) 
 ## Improvement ideas
 
 - Download media (images etc)
+- Replace t.co URLs with full expanded URLs
 - Create a sample HTML website from tweets
   - Put each tweet in it's own folder/directory named after the tweet id number
   - Create an index page to browse the tweets
